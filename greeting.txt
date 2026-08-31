@@ -1,1 +1,1 @@
-Welcome to Git practice
+Welcome to GitHub development
